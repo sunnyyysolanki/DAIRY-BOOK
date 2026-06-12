@@ -1,0 +1,6 @@
+{
+  "name": "DairyFlow",
+  "description": "A high-fidelity modern mobile dairy administration and customer portal supporting both iOS and Android design systems.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
